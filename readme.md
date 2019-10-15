@@ -35,8 +35,8 @@ You can now access the server at http://localhost:8000
 
 **TL;DR command list**
 
-    git clone git@github.com:gothinkster/laravel-realworld-example-app.git
-    cd laravel-realworld-example-app
+    git clone https://github.com/mazvydasko/laravel-transfers-app.git
+    cd laravel-transfers-app
     composer install
     cp .env.example .env
     php artisan key:generate
